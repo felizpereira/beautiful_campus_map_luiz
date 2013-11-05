@@ -1,0 +1,6 @@
+This map was constructed in ArcMap.
+The data used in this map are from different sources:
+The satellite image is of the ArcMap,
+The polygons come from the old campus map,
+And the information comes from data collection made for the campus map project.
+Desiner: Luiz Pereira G2013494
